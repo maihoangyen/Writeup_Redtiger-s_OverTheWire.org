@@ -8,7 +8,7 @@
 #### Simple login-bypass-level_2 <a name="gioithieu"></a>
  - B1: Đầu tiên chúng ta thử nhập `username=1` và `password=1`. Chúng ta sẽ bật on proxy lên và nhấn login.
 
-   ![image](https://user-images.githubusercontent.com/101852647/165547544-c676e3ca-caed-41a7-ba29-54659c88621f.png)
+   ![image](https://user-images.githubusercontent.com/101852647/165547892-3811cb13-f1c3-4e2f-9d95-710c2132016e.png)
    
  - B2: Click chuột phải và chọn `send to intruder`.
 
