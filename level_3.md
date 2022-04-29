@@ -1,11 +1,11 @@
-# <div align="center"><p> Sqlinjection Final - Redtigers/Level_3</p></div>
+# <div align="center"><p> Get an error/Level_3</p></div>
  ## Họ và tên: Mai Thị Hoàng Yến
  ## Ngày báo cáo: Ngày 29/4/2022
  ### MỤC LỤC
-   [Simple login-bypass](#gioithieu)
+   [Get an error](#gioithieu)
    
 ### Nội dung báo cáo 
-#### Simple login-bypass-level_2 <a name="gioithieu"></a>
+#### Get an error-level_3 <a name="gioithieu"></a>
 - B1: Đây là màn hình chính của level_3. Ở đây chúng ta thấy ng ta đã cho chúng ta biết thêm thông tin đó là `user= Admin`, `table=level3_users` và chúng ta thấy thêm là ng ta đã cho chúng ta 2 siêu liên kết.
 
   ![image](https://user-images.githubusercontent.com/101852647/165912678-3d714bb3-b6f1-416e-99a4-d7c43fd17a93.png)
