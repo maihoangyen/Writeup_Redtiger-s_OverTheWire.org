@@ -44,7 +44,7 @@
 
   ![image](https://user-images.githubusercontent.com/101852647/165922396-d73d05c3-edd8-45a0-a5d0-3be7bc4e42f5.png)
 
-- B9: Để ý mà xem trong dòng lỗi nó chỉ đến đường dẫn lỗi thử mở file đó lên xem có gì nào. Ta có thể thấy trong này có đoạn code của mã hóa và giải mã base64 được viết bằng php.
+- B9: Để ý chúng ta sẽ thấy trong dòng lỗi nó chỉ đến đường dẫn lỗi thử mở file đó lên xem có gì nào. Ta có thể thấy trong này có đoạn code của mã hóa và giải mã base64 được viết bằng php.
 
   ![image](https://user-images.githubusercontent.com/101852647/165923079-2cae52f4-117d-49ba-bba8-0481c379c4a2.png)
 
