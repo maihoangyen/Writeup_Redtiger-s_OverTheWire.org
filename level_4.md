@@ -1,11 +1,11 @@
-# <div align="center"><p> Get an error/Level_4</p></div>
+# <div align="center"><p> 	Blind Injection/Level_4</p></div>
  ## Họ và tên: Mai Thị Hoàng Yến
  ## Ngày báo cáo: Ngày 30/4/2022
  ### MỤC LỤC
-   [Get an error](#gioithieu)
+   	Blind Injection](#gioithieu)
    
 ### Nội dung báo cáo 
-#### Get an error-level_4 <a name="gioithieu"></a>
+#### 	Blind Injection-level_4 <a name="gioithieu"></a>
 - B1: Đây là màn hình chính của trang web. Phân tích trang web thì thấy người ta đã cho chúng ta biết tên table `level4_secret` cột `keyword`.
 
   ![image](https://user-images.githubusercontent.com/101852647/166101959-60d71821-ba61-4140-b333-d17b38ebe9a7.png)
