@@ -22,27 +22,24 @@
 
   ![image](https://user-images.githubusercontent.com/101852647/166102208-7d567370-1551-4b45-986a-3b7ef5dec9ab.png)
 
-- B4: Add payload thứ 1 với simple list từ 1->50 .
+- B4: Add simple list từ 1->50 .
 
   ![image](https://user-images.githubusercontent.com/101852647/166102330-3f5067b0-4c46-4241-962b-08c0c634f498.png)
 
-- B5: 
-
-
-- B6: Bắt đầu start attack và nhấn thử từng dòng xem thì thấy từ 1->20 và từ 22->50 nó đều trả về `Query returned 0 rows`. Chỉ duy nhất 1 dòng 21 là nó trả về `Query returned 1 rows`. Như vậy, chúng ta có thể mạnh dạn đoán đây là độ dài của từ khóa mà mình cần tìm.
+- B5: Bắt đầu start attack và nhấn thử từng dòng xem thì thấy từ 1->20 và từ 22->50 nó đều trả về `Query returned 0 rows`. Chỉ duy nhất 1 dòng 21 là nó trả về `Query returned 1 rows`. Như vậy, chúng ta có thể mạnh dạn đoán đây là độ dài của từ khóa mà mình cần tìm.
 
   ![image](https://user-images.githubusercontent.com/101852647/166102426-628e233a-6d46-4d27-9e63-c7a93ca439f3.png)
 
   ![image](https://user-images.githubusercontent.com/101852647/166102435-2169d520-5c60-4351-964b-4ab474ce8d98.png)
 
-- B7: Mặc dù đã thử payload rất nhiều lần nhưng vẫn không có kết quả trả về nên chúng ta sẽ thử dùng python để khai thác. Chúng ta sẽ sử dụng file `level4.py` để khai thác.
+- B6: Mặc dù đã thử payload rất nhiều lần nhưng vẫn không có kết quả trả về nên chúng ta sẽ thử dùng python để khai thác. Chúng ta sẽ sử dụng file `level4.py` để khai thác.
 
   ![image](https://user-images.githubusercontent.com/101852647/166102490-a80234a9-715e-4095-8afc-0a230b6624d5.png)
 
-- B8: Sau khi chạy thử file `level4.py` thì nó đã trả về cho chúng ta keyword là `killstickswithbr1cks!`.
+- B7: Sau khi chạy thử file `level4.py` thì nó đã trả về cho chúng ta keyword là `killstickswithbr1cks!`.
 
   ![image](https://user-images.githubusercontent.com/101852647/166102536-9b43a528-ee78-4e48-9a61-059ee41b562f.png)
 
-- B9: Chạy thử keyword và chúng ta đã đăng nhập thành công.
+- B8: Chạy thử keyword và chúng ta đã đăng nhập thành công.
 
   ![image](https://user-images.githubusercontent.com/101852647/166102575-e3ab9610-0b1a-4382-a782-47326edae0b2.png)
