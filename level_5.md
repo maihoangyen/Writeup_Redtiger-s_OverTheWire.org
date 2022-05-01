@@ -37,7 +37,7 @@
 - B8: Copy đoạn mã hóa md5 và bắt đầu khai thác nhập lại `username= ' union select 1,'5f4dcc3b5aa765d61d8327deb882cf99
 '#` và `password=pasword` thì may mắn là chúng ta đã đăng nhập thành công.
 
-  ![image](https://user-images.githubusercontent.com/101852647/166136897-d4462c5f-e59d-43d8-a46a-54108597c87d.png)
+  ![image](https://user-images.githubusercontent.com/101852647/166136955-244491a6-e475-48d9-9466-75fe9f017270.png)
   
 - B9: Đây là màn hình sau khi chúng ta đã đăng nhập thành công.
 
