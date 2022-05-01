@@ -37,3 +37,8 @@
 - B8: Copy đoạn mã hóa md5 và bắt đầu khai thác thử thì may mắn là chúng ta đã đăng nhập thành công.
 
   ![image](https://user-images.githubusercontent.com/101852647/166136777-4e027178-fb30-488a-a6c3-f50837e44e4e.png)
+  
+- B9: Đây là màn hình sau khi chúng ta đã đăng nhập thành công.
+
+  ![image](https://user-images.githubusercontent.com/101852647/166136868-17e9def1-1338-4f75-a3b8-f53d18cba9d4.png)
+
