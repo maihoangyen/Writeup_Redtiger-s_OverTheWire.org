@@ -34,9 +34,10 @@
 
   ![image](https://user-images.githubusercontent.com/101852647/166136738-c6d31c63-c524-46c9-85cd-fb494c6d65f2.png)
 
-- B8: Copy đoạn mã hóa md5 và bắt đầu khai thác thử thì may mắn là chúng ta đã đăng nhập thành công.
+- B8: Copy đoạn mã hóa md5 và bắt đầu khai thác nhập lại `username= ' union select 1,'5f4dcc3b5aa765d61d8327deb882cf99
+'#` và `password=pasword` thì may mắn là chúng ta đã đăng nhập thành công.
 
-  ![image](https://user-images.githubusercontent.com/101852647/166136777-4e027178-fb30-488a-a6c3-f50837e44e4e.png)
+  ![image](https://user-images.githubusercontent.com/101852647/166136897-d4462c5f-e59d-43d8-a46a-54108597c87d.png)
   
 - B9: Đây là màn hình sau khi chúng ta đã đăng nhập thành công.
 
