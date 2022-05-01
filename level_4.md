@@ -36,6 +36,8 @@
 
 - B7: Mặc dù đã thử rất nhiều cách payload khác nhau nhưng vẫn không khai thác được nên chúng ta thử sử dụng python để khai thác. Sau khi thử chạy file `level4.py` thì nó đã trả về kết quả cho chúng ta keyword.
 
+   ![image](https://user-images.githubusercontent.com/101852647/166136288-f1659e50-188e-4bd6-a3bb-479cc00aab73.png)
+
    ![image](https://user-images.githubusercontent.com/101852647/166136240-cadb48af-48c1-4239-9dbd-78d8e23452f6.png)
 
 - B8: Thử nhập keyword và chúng ta đã đăng nhập thành công.
