@@ -30,20 +30,22 @@
 
   ![image](https://user-images.githubusercontent.com/101852647/166182997-3ecd66e0-bf73-412f-b065-d67509d17785.png)
 
-- B5: Chúng ta sẽ thử mã hóa hệ hex để chúng có thể đọc được lệnh chúng ta . Mã hóa câu lệnh `' union select 1,2,3,4,5#` về dạng hex và thử chèn vào các vị trí. Thì thấy vị trí thứ hai trả về cho ta kết quả. Chúng ta sẽ lợi dụng vị trí này để tìm được username và password.
+- B5: Chúng ta sẽ thử mã hóa hệ hex để chúng có thể đọc được lệnh chúng ta . Mã hóa câu lệnh `' union select 1,2,3,4,5#` về dạng hex và thử chèn vào các vị trí. 
 
   ![image](https://user-images.githubusercontent.com/101852647/166183303-5ba3efdb-eb15-4ddb-89c7-47fe0a5d350b.png)
+  
+- B6: Chúng ta sẽ chèn vào các vị trí từ 1->5 . Thì thấy vị trí thứ hai trả về cho ta kết quả còn các vị trí còn lại đều trả về là `User not found`. Chúng ta sẽ lợi dụng vị trí này để tìm được username và password.
   
   ![image](https://user-images.githubusercontent.com/101852647/166183374-2b1c52ca-874b-4bbb-bcc4-f381539bd70e.png)
   
   ![image](https://user-images.githubusercontent.com/101852647/166183426-e26ad0b7-a580-4076-8b07-d87e27cc7e11.png)
   
-- B6: Sau bước trên kết quả trả về cho chúng ta vị trí thứ 2 và 4 thì bây giờ chúng ta sẽ mã hóa câu lệnh `' union select 1,username,3,password,5 from level6_users where status=1#` để khai thác username và password.
+- B7: Sau bước trên kết quả trả về cho chúng ta vị trí thứ 2 và 4 thì bây giờ chúng ta sẽ mã hóa câu lệnh `' union select 1,username,3,password,5 from level6_users where status=1#` để khai thác username và password.
 
   ![image](https://user-images.githubusercontent.com/101852647/166183604-016c6ce0-fd31-447e-89a2-cbde24afa1c8.png)
 
   ![image](https://user-images.githubusercontent.com/101852647/166183701-0bc3dc76-9172-43c6-8db2-7209f98b464c.png)
 
-- B7: Chúng ta lấy `username=admin` và `password=m0nsterk1ll` để đăng nhập.
+- B8: Chúng ta lấy `username=admin` và `password=m0nsterk1ll` để đăng nhập.
 
   ![image](https://user-images.githubusercontent.com/101852647/166183854-5ca87df3-75a2-44b6-8cad-abf0769c3db2.png)
