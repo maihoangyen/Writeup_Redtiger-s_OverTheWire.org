@@ -42,12 +42,12 @@
   
   ![image](https://user-images.githubusercontent.com/101852647/166183426-e26ad0b7-a580-4076-8b07-d87e27cc7e11.png)
   
-- B7: Sau bước trên kết quả trả về cho chúng ta vị trí thứ 2 và 4 thì bây giờ chúng ta sẽ mã hóa câu lệnh `' union select 1,username,3,password,5 from level6_users where status=1#` để khai thác username và password.
+- B8: Sau bước trên kết quả trả về cho chúng ta vị trí thứ 2 và 4 thì bây giờ chúng ta sẽ mã hóa câu lệnh `' union select 1,username,3,password,5 from level6_users where status=1#` để khai thác username và password.
 
   ![image](https://user-images.githubusercontent.com/101852647/166183604-016c6ce0-fd31-447e-89a2-cbde24afa1c8.png)
 
   ![image](https://user-images.githubusercontent.com/101852647/166183701-0bc3dc76-9172-43c6-8db2-7209f98b464c.png)
 
-- B8: Chúng ta lấy `username=admin` và `password=m0nsterk1ll` để đăng nhập.
+- B9: Chúng ta lấy `username=admin` và `password=m0nsterk1ll` để đăng nhập.
 
   ![image](https://user-images.githubusercontent.com/101852647/166183854-5ca87df3-75a2-44b6-8cad-abf0769c3db2.png)
