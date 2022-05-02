@@ -34,9 +34,11 @@
 
   ![image](https://user-images.githubusercontent.com/101852647/166183303-5ba3efdb-eb15-4ddb-89c7-47fe0a5d350b.png)
   
-- B6: Chúng ta sẽ chèn vào các vị trí từ 1->5 . Thì thấy vị trí thứ hai trả về cho ta kết quả còn các vị trí còn lại đều trả về là `User not found`. Chúng ta sẽ lợi dụng vị trí này để tìm được username và password.
+- B6: Chúng ta sẽ chèn vào các vị trí từ 1->5 nó trả về là `User not found`. 
   
   ![image](https://user-images.githubusercontent.com/101852647/166183374-2b1c52ca-874b-4bbb-bcc4-f381539bd70e.png)
+  
+- B7: Khi chèn tới vị tí thứ hai thì thấy nó trả về cho ta kết quả còn các vị trí còn lại đều trả về là `User not found`. Chúng ta sẽ lợi dụng vị trí này để tìm được username và password.
   
   ![image](https://user-images.githubusercontent.com/101852647/166183426-e26ad0b7-a580-4076-8b07-d87e27cc7e11.png)
   
