@@ -32,7 +32,9 @@
 
 - B7: Bây giờ ta mới để ý lại lỗi ban đầu ta gặp và sẽ dựa vào đó để khai thác. Ta thấy lỗi cú pháp gần `'union select 1,2,3#', icq = '12345', age = '25' WHERE id = 1' ` vậy thì chúng ta sẽ lợi dụng lỗ hổng này để khai thác bằng cách chèn thêm câu lệnh `', name=password,icq='` và kết quả trả về cho chúng ta password ngay ở dòng name.
 
-  ![image](https://user-images.githubusercontent.com/101852647/167064143-c19d863b-1554-428c-876e-832aa861f403.png)
+  ![image](https://user-images.githubusercontent.com/101852647/167063882-c1234756-f062-4e71-82f9-78f38dc3034b.png)
+  
+  ![image](https://user-images.githubusercontent.com/101852647/167064389-1875abbb-07e6-4ba9-af85-329aadb62db8.png)
   
 - B8: Sau kkhi đăng nhập với `username=Admin` và `password=19JPYS1jdgvkj` thì đã đăng nhập thành công.
 
@@ -41,4 +43,4 @@
 
 
 
-  ![image](https://user-images.githubusercontent.com/101852647/167063882-c1234756-f062-4e71-82f9-78f38dc3034b.png)
+  
