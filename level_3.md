@@ -1,6 +1,4 @@
 # <div align="center"><p> Get an error/Level_3</p></div>
- ## Họ và tên: Mai Thị Hoàng Yến
- ## Ngày báo cáo: Ngày 29/4/2022
  ### MỤC LỤC
    [Get an error](#gioithieu)
    
