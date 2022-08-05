@@ -1,6 +1,4 @@
 # <div align="center"><p> Advanced login-bypass/Level_5</p></div>
- ## Họ và tên: Mai Thị Hoàng Yến
- ## Ngày báo cáo: Ngày 01/5/2022
  ### MỤC LỤC
    [Advanced login-bypass](#gioithieu)
    
