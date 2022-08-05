@@ -1,6 +1,4 @@
 # <div align="center"><p> Blind Injection/Level_4</p></div>
- ## Họ và tên: Mai Thị Hoàng Yến
- ## Ngày báo cáo: Ngày 30/4/2022
  ### MỤC LỤC
    [Blind Injection](#gioithieu)
    
