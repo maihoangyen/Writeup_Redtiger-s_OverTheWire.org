@@ -1,6 +1,4 @@
 # <div align="center"><p> SQL-Injection/Level_6</p></div>
- ## Họ và tên: Mai Thị Hoàng Yến
- ## Ngày báo cáo: Ngày 02/5/2022
  ### MỤC LỤC
    [SQL-Injection](#gioithieu)
    
